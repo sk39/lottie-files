@@ -1,0 +1,33 @@
+{
+  "name": "@sk39/lottie-files",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sk39/lottie-files.git"
+  },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "scripts": {
+    "predeploy": "cd example && npm install && npm run build",
+    "deploy": "gh-pages -d example/build"
+  },
+  "peerDependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "lottie",
+    "animation"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
