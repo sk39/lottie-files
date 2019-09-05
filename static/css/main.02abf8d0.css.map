@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEA,MACE,qBACA,gBACA,sBACA,aAAe","file":"static/css/main.02abf8d0.css","sourcesContent":["/* add css styles here (optional) */\n\n.test {\n  display: inline-block;\n  margin: 2em auto;\n  border: 2px solid #000;\n  font-size: 2em;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
