@@ -2,7 +2,7 @@
   "name": "@sk39/lottie-files",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "sk39",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,13 +16,12 @@
     "predeploy": "cd example && npm install && npm run build",
     "deploy": "gh-pages -d example/build"
   },
-  "peerDependencies": {
-  },
-  "devDependencies": {
-  },
   "files": [
     "dist"
   ],
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  },
   "keywords": [
     "lottie",
     "animation"

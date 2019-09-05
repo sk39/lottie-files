@@ -2,6 +2,11 @@
 
 lottie-files
 
+[Example](https://sk39.github.io/lottie-files/)
+
+[![NPM](https://img.shields.io/npm/v/@sk39/lottie-files.svg)](https://www.npmjs.com/package/@sk39/lottie-files) 
+
+
 ## Install
 
 ```bash
